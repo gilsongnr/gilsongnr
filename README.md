@@ -1,4 +1,3 @@
-Fiz assim:
 # Hello! I'm [Gilson] 👋
 🚀 Dev Backend
 
